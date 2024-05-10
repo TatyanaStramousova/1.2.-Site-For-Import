@@ -1,0 +1,6 @@
+tmp/
+img/Thumbs.db
+*_backup
+*_old
+.DS_Store
+private/todo.md ← будет проигнорирован файл todo.md, находящийся в папке private
